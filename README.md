@@ -15,4 +15,5 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 </br>
 
-## Download my CV:
+## CV:
+[Download my CV](CV-2023.pdf)
