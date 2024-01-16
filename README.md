@@ -120,7 +120,7 @@ Prototype of the first online trade fairs for businesses that emerged as a resul
   <table style="width:100%">
     <tr>
       <td>
-        <img src="bbabf5124248545.61003ea6d2a5c.jpg" alt="Photon" width="400" />
+        <img src="40cfff124248545.61002c46924fc.png" alt="Photon" width="400" />
       </td>
       <td>
         <img src="bbabf5124248545.61003ea6d2a5c.jpg" alt="Unity multiplayer" width="400" />
