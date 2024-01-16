@@ -42,6 +42,7 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 
 <details>
 <summary>⚙️ Meifus industrial</summary>
+  
 Interactive and flexible product for virtualisation of machines and their environment. HMI 4.0 interaction.
  
 
@@ -54,5 +55,27 @@ Simplified digital twin.
 Product that also adds interactive 3D machine manuals connected that in addition to having all the documentation, plans, etc… has help tools such as adjustment videos, videos or animated ranges to help in the different functions as well as specific tools to section the 3D and help the technician.
 Product that also adds the geolocation of any elements that you want to sensor related to the machine. These can be other moving machines such as forklifts, people or objects. For this it has a technological recurrence system (Wifi + Gos + Lora).
 MAR-VHMI is a product to be able to interact with machines and their environment in an easy, flexible and economical way…
+
+<a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG">
+  <table style="width:100%">
+    <tr>
+      <td>
+        <img src="ff0b86182572775.652ffd5ed039c.png" alt="YouTube" width="400" />
+      </td>
+      <td>
+        <img src="ff0b86182572775.652ffd5ed039c.png" alt="YouTube" width="400" />
+      </td>
+      <td>
+        <img src="ff0b86182572775.652ffd5ed039c.png" alt="YouTube" width="400" />
+      </td>
+    </tr>
+  </table>
+</a>
+
+
+
+  
+
+
 
 </details>
