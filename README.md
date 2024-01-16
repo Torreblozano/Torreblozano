@@ -30,6 +30,9 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 [Download my CV](CV-2023.pdf)
 
 ## I've worked on:
+<!--
+Summary 1
+-->
 <details>
 <summary>🚀 <b>Uttopion metaverse</b></summary>
 </br>
@@ -62,6 +65,10 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 </a>
 
 </details>
+
+<!--
+Summary 2
+-->
 
 <details>
 <summary>⚙️ <b>MAR-VHMI</b></summary>
@@ -100,6 +107,10 @@ MAR-VHMI is a product to be able to interact with machines and their environment
     </tr>
   </table>
 </a>
+
+<!--
+Summary 3
+-->
 </details>
 
 <details>
@@ -131,5 +142,50 @@ Prototype of the first online trade fairs for businesses that emerged as a resul
     </tr>
   </table>
 </a>
+
+</details>
+
+<!--
+Summary 3
+-->
+</details>
+
+<details>
+<summary>🏛️ <b>Public entities and museums</b></summary>
+</br>
+  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/&nbsp;-C%23-purple?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/&nbsp;-512BD4?logo=.net&color=512BD4)](https://dotnet.microsoft.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![ARCore](https://img.shields.io/badge/ARCore-00C853?style=flat&logo=google&logoColor=white)](https://developers.google.com/ar)
+[![ARKit](https://img.shields.io/badge/ARKit-4FC3F7?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/documentation/arkit)
+[![AR Foundation](https://img.shields.io/badge/AR_Foundation-000000?style=flat&logo=unity&logoColor=white)](https://docs.unity3d.com/2019.4/Documentation/)
+[![EasyAR](https://img.shields.io/badge/EasyAR-Augmented%20Reality-blue)](https://www.easyar.com/)
+[![Oculus](https://img.shields.io/badge/&nbsp;-Oculus-grey?logo=oculus)](https://www.oculus.com/)
+
+Various augmented reality and virtual reality projects for public entities or museums.
+
+ <table style="width:100%">
+    <tr>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.Dom3D.MurallasDeArjona&hl=es&gl=US">
+          <img src="Arjona.jpg" width="400" />
+        </a>     
+      </td>
+      <td>
+         <a href="https://play.google.com/store/apps/details?id=com.Nubia.RoquetasVirtual&hl=es_HN">
+          <img src="Roquetas.jpg" width="400" />
+        </a>  
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.Dom3D.JardinDelAlfarero&hl=es&gl=US">
+          <img src="Alfarero.jpg" width="400" />
+        </a>  
+      </td>
+    </tr>
+  </table>
+
+</details>
 
 </details>
