@@ -188,4 +188,15 @@ Various augmented reality and virtual reality projects for public entities or mu
 
 </details>
 
-</details>
+## I also have teaching experience; you can inquire about references at:
+</br>
+<a href="https://www.implika.es">
+  <img src="logoImplika.png" width="400" />
+</a>  
+<a href="https://codespaceacademy.com">
+  <img src="LogoCodeSpace.png" width="400" />
+</a>  
+<a href="https://centroingenio.es">
+  <img src="LogoIngenio.png" width="400" />
+</a>  
+
