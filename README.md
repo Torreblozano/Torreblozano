@@ -27,7 +27,7 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 [![Agora](https://img.shields.io/badge/Agora-Video%20Calling-brightgreen)](https://www.agora.io/)
 
 ## CV:
-[Download my CV](CV-2023.pdf)
+[Download my CV](CV2024.pdf)
 
 ## I've worked on:
 <!--
