@@ -1,4 +1,4 @@
-# ![Logo](https://github.com/Torreblozano/Torreblozano/blob/main/Artboard%201%20(1).png) Hey hey! 👋 My name is Álvaro (or Álvar) Torreblanca
+# ![Logo](https://github.com/Torreblozano/Torreblozano/blob/main/Artboard%201%20(1).png) Hey hey! 👋 My name is Álvaro Torreblanca
 
 What am I up to now? After taking a stroll through the metaverse and developing various experiences for it, I'm currently working on and leading virtual reality projects. If you want to know more, feel free to reach out! 
 
