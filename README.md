@@ -169,12 +169,12 @@ Various augmented reality and virtual reality projects for public entities or mu
  <table style="width:100%">
     <tr>
       <td>
-        <a href="https://play.google.com/store/apps/details?id=com.Dom3D.MurallasDeArjona&hl=es&gl=US">
+        <a href="https://apkpure.com/es/murallas-de-arjona/com.Dom3D.MurallasDeArjona">
           <img src="Arjona.jpg" width="400" />
         </a>     
       </td>
       <td>
-         <a href="https://play.google.com/store/apps/details?id=com.Nubia.RoquetasVirtual&hl=es_HN">
+         <a href="https://www.nubiaconsultores.es/nubia-presenta-en-el-ayuntamiento-de-roquetas-de-mar-la-nueva-app-roquetas-de-mar-una-mar-de-culturas/">
           <img src="Roquetas.jpg" width="400" />
         </a>  
       </td>
