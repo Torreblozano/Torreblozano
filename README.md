@@ -46,21 +46,26 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 
 "Uttopion 'The content metaverse' is the first Spanish metaverse and its main goal is to revolutionize the way content is created, shared, and consumed in virtual spaces."
 
-<a href="https://uttopion.com">
   <table style="width:100%">
     <tr>
       <td>
+        <a href="https://uttopion.com">
         <img src="ebdce2184099239.Y3JvcCw4MDgsNjMyLDAsMA.jpg" alt="Metaverse" width="400" />
+        </a>
       </td>
       <td>
+        <a href="https://uttopion.com">
         <img src="ff8b72184099239.654b90b709902.png" alt="Multiplayer" width="400" />
+        </a>
       </td>
       <td>
+        <a href="https://uttopion.com">
         <img src="4b75a2184099239.654b90b703790.jpg" alt="Webgl" width="400" />
+        </a>
       </td>
     </tr>
   </table>
-</a>
+
 
 </details>
 
@@ -89,18 +94,22 @@ MAR-VHMI is a product to be able to interact with machines and their environment
   <table style="width:100%">
     <tr>
       <td>
-        <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG">
-        <img src="adf045182572775.652ffd5ecd1ae.png" alt="AR" width="400" />
+        <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG" target="_blank">
+          <img src="adf045182572775.652ffd5ecd1ae.png" alt="AR" width="400" />
         </a>
       </td>
       <td>
-        <img src="ff0b86182572775.652ffd5ed039c.png" alt="VR" width="400" />
+        <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG" target="_blank">
+          <img src="ff0b86182572775.652ffd5ed039c.png" alt="VR" width="400" />
+        </a>
       </td>
       <td>
-        <img src="72b0e4182572775.652ffd5ece63b.png" alt="XR" width="400" />
+        <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG" target="_blank">
+          <img src="72b0e4182572775.652ffd5ece63b.png" alt="XR" width="400" />
+        </a>
       </td>
     </tr>
-  </table>
+</table>
 
 
 </details>
@@ -119,21 +128,26 @@ MAR-VHMI is a product to be able to interact with machines and their environment
 
 Prototype of the first online trade fairs for businesses that emerged as a result of the isolation during the COVID-19 pandemic.
 
-<a href="https://www.vaudience.ai">
   <table style="width:100%">
     <tr>
       <td>
+         <a href="https://www.vaudience.ai" target="_blank">
         <img src="40cfff124248545.61002c46924fc.png" alt="Photon" width="400" />
+         </a>
       </td>
       <td>
+         <a href="https://www.vaudience.ai" target="_blank">
         <img src="bbabf5124248545.61003ea6d2a5c.jpg" alt="Unity multiplayer" width="400" />
+         </a>
       </td>
       <td>
+         <a href="https://www.vaudience.ai" target="_blank">
         <img src="f066e1124248545.61003ea6d1cc5.jpg" alt="Virual fairs" width="400" />
+         </a>
       </td>
     </tr>
   </table>
-</a>
+
 
 </details>
 
@@ -198,8 +212,9 @@ Prototypes. Games for companies. Games for fairs and events
       </td>
       <td>
          <a href="https://www.amazon.es/Perita-Studio-Test-del-Calamar/dp/B01MTLAY1M">
-          <iframe width="400" height="225" src="https://www.youtube.com/embed/bFOkS5tnC-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <img src="Calamar.jpg" width="400" />          
         </a>  
+        <iframe width="400" height="225" src="https://www.youtube.com/embed/bFOkS5tnC-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </td>    
     </tr>
   </table>
