@@ -30,9 +30,7 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 [Download my CV](CV2024.pdf)
 
 ## I've worked on:
-<!--
-Summary 1
--->
+
 <details>
 <summary>🚀 <b>Uttopion metaverse</b></summary>
 </br>
@@ -65,10 +63,6 @@ Summary 1
 </a>
 
 </details>
-
-<!--
-Summary 2
--->
 
 <details>
 <summary>⚙️ <b>MAR-VHMI</b></summary>
@@ -108,9 +102,6 @@ MAR-VHMI is a product to be able to interact with machines and their environment
   </table>
 </a>
 
-<!--
-Summary 3
--->
 </details>
 
 <details>
@@ -145,9 +136,6 @@ Prototype of the first online trade fairs for businesses that emerged as a resul
 
 </details>
 
-<!--
-Summary 3
--->
 </details>
 
 <details>
@@ -183,6 +171,35 @@ Various augmented reality and virtual reality projects for public entities or mu
           <img src="Alfarero.jpg" width="400" />
         </a>  
       </td>
+    </tr>
+  </table>
+
+</details>
+
+<details>
+<summary>🎮 <b>Games</b></summary>
+</br>
+  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/&nbsp;-C%23-purple?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/&nbsp;-512BD4?logo=.net&color=512BD4)](https://dotnet.microsoft.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+
+Prototypes. Games for companies. Games for fairs and events
+
+ <table style="width:100%">
+    <tr>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.vivastudios.idle.hospital.tycoon.empire&hl=en">
+          <img src="Hospital.jpg" width="400" />
+          <p><i>Prototype for presentation to the publisher with the company Six Sides Union</i></p>
+        </a>     
+      </td>
+      <td>
+         <a href="https://www.amazon.es/Perita-Studio-Test-del-Calamar/dp/B01MTLAY1M">
+          <iframe width="400" height="225" src="https://www.youtube.com/embed/bFOkS5tnC-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </a>  
+      </td>    
     </tr>
   </table>
 
