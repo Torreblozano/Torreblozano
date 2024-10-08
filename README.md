@@ -206,19 +206,17 @@ Prototypes. Games for companies. Games for fairs and events
     <tr>
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.vivastudios.idle.hospital.tycoon.empire&hl=en">
-          <img src="Hospital.jpg" width="400" />
-          <p><i>Prototype for presentation to the publisher with the company Six Sides Union</i></p>
-        </a>     
+          <img src="Hospital.jpg" width="400" />          
+        </a><p>*</p>     
       </td>
       <td>
-         <a href="https://www.amazon.es/Perita-Studio-Test-del-Calamar/dp/B01MTLAY1M">
+         <a href="https://www.youtube.com/embed/bFOkS5tnC-I">
             <img src="Calamar.jpg" width="400" />          
-        </a>  
-        <iframe width="400" height="225" src="https://www.youtube.com/embed/bFOkS5tnC-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </a>         
       </td>    
     </tr>
   </table>
-
+  <p><i>* Prototype for presentation to the publisher with the company Six Sides Union</i></p>
 </details>
 
 
