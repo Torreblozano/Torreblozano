@@ -86,11 +86,12 @@ Product that also adds interactive 3D machine manuals connected that in addition
 Product that also adds the geolocation of any elements that you want to sensor related to the machine. These can be other moving machines such as forklifts, people or objects. For this it has a technological recurrence system (Wifi + Gos + Lora).
 MAR-VHMI is a product to be able to interact with machines and their environment in an easy, flexible and economical way…
 
-<a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG">
   <table style="width:100%">
     <tr>
       <td>
+        <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG">
         <img src="adf045182572775.652ffd5ecd1ae.png" alt="AR" width="400" />
+        </a>
       </td>
       <td>
         <img src="ff0b86182572775.652ffd5ed039c.png" alt="VR" width="400" />
@@ -100,7 +101,7 @@ MAR-VHMI is a product to be able to interact with machines and their environment
       </td>
     </tr>
   </table>
-</a>
+
 
 </details>
 
