@@ -65,53 +65,119 @@ What am I up to now? After taking a stroll through the metaverse and developing 
       </td>
     </tr>
   </table>
-
-
 </details>
 
 <details>
-<summary>⚙️ <b>MAR-VHMI</b></summary>
+<summary>⚙️ <b>MAR-VIM - Interactive Manuals for Machinery</b></summary>
 </br>
   
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 [![C#](https://img.shields.io/badge/&nbsp;-C%23-purple?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/&nbsp;-512BD4?logo=.net&color=512BD4)](https://dotnet.microsoft.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Python](https://img.shields.io/badge/&nbsp;-Python-3776AB?logo=python&color=f6d754)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/&nbsp;-Python-3776AB?logo=python&color=f6d754)](https://www.python.org/)
+[![Android](https://img.shields.io/badge/&nbsp;-Android-green?logo=android&color=2E7D32)](https://www.android.com/)
 
-Interactive and flexible product for virtualisation of machines and their environment. HMI 4.0 interaction.
+Interactive manual for viewing parts and managing online orders for real machines. This system includes:<br>
 
-Product for the conversion of any machine into a Machine 4.0 with sensorisation, intelligent measurement, communication, monitoring and bi-directional interaction from a virtualised model.
-Communication decoupled by MQTT.
-Advanced flexible sensorics for productive means.
-Intelligent measurement with artificial vision.
-Scalable comfort sensorics.
-Simplified digital twin.
-Product that also adds interactive 3D machine manuals connected that in addition to having all the documentation, plans, etc… has help tools such as adjustment videos, videos or animated ranges to help in the different functions as well as specific tools to section the 3D and help the technician.
-Product that also adds the geolocation of any elements that you want to sensor related to the machine. These can be other moving machines such as forklifts, people or objects. For this it has a technological recurrence system (Wifi + Gos + Lora).
-MAR-VHMI is a product to be able to interact with machines and their environment in an easy, flexible and economical way…
+-Installation video manuals.<br>
+-Direct parts ordering linked with Prestashop.<br>
+-Viewing machine blueprints and documentation.<br>
+-Various part visualization systems.<br>
+-A complementary app developed in Python, allowing users to create their own manuals via FTP files.<br>
+-Includes remote manual control via hand tracking.<br>
 
   <table style="width:100%">
     <tr>
       <td>
         <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG" target="_blank">
-          <img src="adf045182572775.652ffd5ecd1ae.png" alt="AR" width="400" />
+          <img src="imagen_2024-11-18_090925301.png" alt="AR" width="400" />
         </a>
       </td>
       <td>
         <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG" target="_blank">
-          <img src="ff0b86182572775.652ffd5ed039c.png" alt="VR" width="400" />
+          <img src="imagen_2024-11-18_091012096.png" alt="VR" width="400" />
         </a>
       </td>
       <td>
         <a href="https://youtu.be/P949gt2c9WM?si=vzGjjcB6MsXONNXG" target="_blank">
-          <img src="72b0e4182572775.652ffd5ece63b.png" alt="XR" width="400" />
+          <img src="imagen_2024-11-18_091203096.png" alt="XR" width="400" />
         </a>
       </td>
     </tr>
 </table>
+</details>
 
+<details>
+<summary>🌊 <b>MAR-SPAN - Monitoring and Control of Mussel Farming</b></summary>
+</br>
+  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/&nbsp;-C%23-purple?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/&nbsp;-512BD4?logo=.net&color=512BD4)](https://dotnet.microsoft.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 
+Real-time monitoring project for mussel farming in southern Spain. This application (WebGL / iframe) receives real-time information on production weight, weather conditions, wave activity, and fuel levels, as well as providing camera monitoring.
+
+  <table style="width:100%">
+    <tr>
+      <td>
+        <a href="" target="_blank">
+          <img src="imagen_2024-11-18_085754910.png" alt="AR" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="imagen_2024-11-18_085820705.png" alt="VR" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="imagen_2024-11-18_085849912.png" alt="XR" width="400" />
+        </a>
+      </td>
+        <td>
+        <a href="" target="_blank">
+          <img src="imagen_2024-11-18_085946619.png" alt="Unity" width="400" />
+        </a>
+      </td>
+    </tr>
+</table>
+</details>
+
+<details>
+<summary>🐭 <b>Water Maze Project VR - Sevilla University</b></summary>
+</br>
+  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/&nbsp;-C%23-purple?logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/&nbsp;-512BD4?logo=.net&color=512BD4)](https://dotnet.microsoft.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Oculus](https://img.shields.io/badge/&nbsp;-Oculus-grey?logo=oculus)](https://www.oculus.com/)
+[![Windows](https://img.shields.io/badge/&nbsp;-Windows-blue?logo=windows)](https://www.microsoft.com/windows/)
+
+[Article](https://link.springer.com/article/10.1007/s11042-023-17177-w)<br>
+Water Maze Project VR is an experiment conducted at the University of Seville aimed at introducing individuals to a VR experience that simulates a traditionally mouse-based experiment. The project adapts the virtual water maze concept, a well-established tool in animal research, to assess spatial memory and search strategies in a human context. By immersing participants in a virtual environment, the study explores how gaming experience influences spatial learning and memory processes, providing a novel approach to cognitive testing and stimulation. This experiment is part of ongoing research to explore the potential of virtual reality in enhancing cognitive evaluations and improving learning strategies.
+
+  <table style="width:100%">
+    <tr>
+      <td>
+        <a href="" target="_blank">
+          <img src="Morris Water Maze VR.jpg" alt="AR" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="imagen_2024-11-19_105923448_Nero AI_Photo_Face.png" alt="VR" width="400" />
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="imagen_2024-11-19_110021826_Nero AI_Photo_Face.png" alt="XR" width="400" />
+        </a>
+      </td>       
+    </tr>
+</table>
 </details>
 
 <details>
@@ -147,10 +213,6 @@ Prototype of the first online trade fairs for businesses that emerged as a resul
       </td>
     </tr>
   </table>
-
-
-</details>
-
 </details>
 
 <details>
@@ -188,7 +250,6 @@ Various augmented reality and virtual reality projects for public entities or mu
       </td>
     </tr>
   </table>
-
 </details>
 
 <details>
@@ -218,7 +279,6 @@ Prototypes. Games for companies. Games for fairs and events
   </table>
   <p><i>* Prototype for presentation to the publisher with the company Six Sides Union</i></p>
 </details>
-
 
 ## I also have teaching experience; you can inquire about references at:
 
