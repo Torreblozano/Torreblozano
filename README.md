@@ -26,8 +26,11 @@ What am I up to now? After taking a stroll through the metaverse and developing 
 [![Mirror](https://img.shields.io/badge/Mirror-Unity%20Networking-brightgreen.svg)](https://mirror-networking.com/)
 [![Agora](https://img.shields.io/badge/Agora-Video%20Calling-brightgreen)](https://www.agora.io/)
 
-## CV:
-[Download my CV](CV2024.pdf)
+## RESUME:
+[Download my Resume](CV2024.pdf)
+
+## RESUME GAME:
+[![Resume Game Intro](ResumeGameIntroFinal.gif)](https://torreblozano.github.io/ResumeGameIframe/)
 
 ## I've worked on:
 
